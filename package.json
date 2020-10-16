@@ -1,0 +1,19 @@
+{
+  "name": "weather-app-mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "nodemon": "^2.0.5",
+    "request": "^2.88.2"
+  }
+}
